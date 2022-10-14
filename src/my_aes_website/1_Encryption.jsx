@@ -43,7 +43,7 @@ class EncryptionPage extends React.Component {
             this.states_order_index = this.states_order_index.concat(element);
         }
         this.state = {
-            table_state: 100,
+            table_state: 1,
         };
 
     }
