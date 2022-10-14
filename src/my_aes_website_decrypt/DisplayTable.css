@@ -1,0 +1,21 @@
+.bold-mode {
+    border-width: 4px;
+    font-weight: 700;
+}
+.normal-mode{
+    border-width: 2px;
+}
+.my-display-table  td {
+    text-align: center;
+    --a : 47px;
+    height: var(--a);
+    width: var(--a);
+}
+.display-table-div-1 {
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+    box-shadow: rgba(209, 21, 21, 0.88) 3px 3px 20px 5px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+.display-table-div-2 {
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+    box-shadow: rgba(209, 21, 21, 0.48) 3px 3px 10px 5px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}

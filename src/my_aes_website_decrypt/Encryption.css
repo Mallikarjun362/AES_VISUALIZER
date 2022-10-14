@@ -1,0 +1,15 @@
+.main-div {
+    padding: 10px;
+    margin: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    min-height: 1000px;
+}
+/* html {
+    scroll-behavior: smooth;
+} */
+.aes-table{
+    border-collapse: separate;
+    border-spacing: 0 1em;
+
+}

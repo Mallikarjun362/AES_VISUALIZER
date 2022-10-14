@@ -1,0 +1,8 @@
+.my-fbutton{
+    transform: rotate(-90deg);
+    /* transform: rotate(-180deg); */
+    /* margin: 0; */
+    transform: rotate(-90deg) translateY(0px) translateX(10px);  
+    writing-mode: tb-rl;
+
+}

@@ -1,0 +1,37 @@
+
+.input-div {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    background-color: #eee;
+    border-radius: 15px;
+    width: max-content;
+}
+.initial_input{
+    background-color: #eee;
+    font-size: 30px;
+    border-radius: 10px;
+    border-color: #666;
+    border-width: 1px;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.main-content label {
+    font-size: 25px;
+}
+
+.main-content td{
+    padding: 10px;
+    
+}
+
+.main-content p{
+    color: #666;
+    margin: 2px;
+}
+.btn-submit{
+    background-color: #bbb;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
